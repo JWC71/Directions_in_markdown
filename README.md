@@ -1,7 +1,7 @@
 # How to Skateboard
 ---
 
-Skateboarding is when a person rides standing balanced on a small board mounted on wheels. Skateboarding gives the user entertainment and transportation device. It can also help build strength and good balance for the person.
+Skateboarding is when a person rides standing balanced on a small board mounted on wheels. Skateboarding gives the user entertainment and transportation device. It can also help build strength and balance for the person.
 
 # Warning
 ---

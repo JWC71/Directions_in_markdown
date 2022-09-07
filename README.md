@@ -38,7 +38,7 @@ Skateboarding is when a person rides standing balanced on a small board mounted 
 
 #### 7. Now practice pushing off the ground when the board starts to slow down
 
-#### 8. Use your ankles and weight on the sides of the board to turn 
+#### 8. Use your ankles and weight on the sides of the board to turn while in motion
 - Depending on the user more force or less force is needed for turning.
 ![turning](Turn-on-a-Skateboard.jpg)
 

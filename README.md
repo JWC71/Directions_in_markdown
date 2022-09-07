@@ -20,16 +20,17 @@ Skateboarding is when a person rides standing balanced on a small board mounted 
 #### 1. Wear the helmet with the knee and elbow pads
 
 #### 2. Find a place to skate
-- sidewalk, outside the garage, or anywhere with solid ground
-- No holes or cracks on the ground that can cause crashing
+- sidewalk, outside the garage, or anywhere with solid ground.
+- No holes or cracks on the ground that can cause crashing.
 
 #### 3. Place the skateboard on the ground
 
 #### 4. Try and get used to balancing on the board with both feet
 ![stance](stance.jpg)
 
-#### 5. Use your dominant foot and gently push off the ground and place back on with both foot
-- If using dominant foot to push off the ground feels uncomfortable then you can use your other foot instead, it takes time to get used it
+#### 5. Use your dominant foot to gently push off the ground 
+- After pushing off you should try to have both feet on the board while in motion
+- If using dominant foot to push off the ground feels uncomfortable then you can use your other foot instead, it takes time to get used to it.
 
 ![push](pushing.jpg)
 
@@ -44,4 +45,4 @@ Skateboarding is when a person rides standing balanced on a small board mounted 
 ![brake](brake.jpg)
 
 
--Now you got the basics of skateboarding
+-Now you got the basics of skateboarding.

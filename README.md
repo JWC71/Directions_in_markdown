@@ -44,4 +44,4 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 ![brake](brake.jpg)
 
 
-Now you got the basics of skateboarding
+-Now you got the basics of skateboarding

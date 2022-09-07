@@ -1,7 +1,7 @@
 # How to Skateboard
 ---
 
-Skateboarding is which a person rides standing balanced on a small board mounted on wheels. Skateboarding main uses is entertainment and transportation. 
+Skateboarding is when a person rides standing balanced on a small board mounted on wheels. Skateboarding main uses is entertainment and transportation. 
 
 # Warning
 ---

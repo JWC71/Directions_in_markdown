@@ -6,7 +6,7 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 # Warning
 ---
  # Falling off the skateboard can cause self harm.
- ![fall](/path/to/fallingoff.jpeg)
+ img src="fallingoff.jpeg"
  
 # Items
 -----

@@ -40,7 +40,7 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 #### 8. Use your ankles and weight on the sides of the board to turn 
 ![turning](Turn-on-a-Skateboard.jpg)
 
-#### 9. Place your foot down when the skateboard slows to stop
+#### 9. Place your foot down when the skateboard slows down to brake
 ![brake](brake.jpg)
 
 

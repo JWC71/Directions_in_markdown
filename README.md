@@ -17,7 +17,7 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 
 # Steps
 ---
-# 1. Wear the helmet with the knee and elbow pads
+## 1. Wear the helmet with the knee and elbow pads
 
 # 2. Find a place to skate
 - sidewalk, outside the garage, or anywhere with solid ground

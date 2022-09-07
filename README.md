@@ -28,19 +28,20 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 4. Try and get used to balancing on the board with both feet
 ![stance](stance.jpg)
 
- 5. Use your dominant foot and gently push off the ground and place back on with both foot
+5. Use your dominant foot and gently push off the ground and place back on with both foot
 - If using dominant foot to push off the ground feels uncomfortable then you can use your other foot instead, it takes time to get used to
 
 ![push](pushing.jpg)
 
- 6. Repeat step 5 until you feel comfortable 
+6. Repeat step 5 until you feel comfortable 
 
- 7. Now practice pushing off the ground when the board starts to slow down
+7. Now practice pushing off the ground when the board starts to slow down
 
 8. Use your ankles and weight on the sides of the board to turn 
 ![turning](Turn-on-a-Skateboard.jpg)
 
- 9. Place your foot down when the skateboard slows to stop
+
+9. Place your foot down when the skateboard slows to stop
 ![brake](brake.jpg)
 
 

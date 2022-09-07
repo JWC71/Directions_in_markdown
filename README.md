@@ -41,4 +41,6 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 
 # 9. Place your foot down when the skateboard slows to stop
 ![brake](brake.jpg)
+
+
 Now you got the basics of skateboarding

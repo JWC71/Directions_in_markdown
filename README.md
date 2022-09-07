@@ -29,7 +29,7 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 ![stance](stance.jpg)
 
 # 5. Use your dominant foot and gently push off the ground and place back on with both foot
-- If using dominant foot to push off the ground feels uncomfortable then you can use your other foot instead, it takes time to get used to
+- If using dominant foot to push off the ground feels uncomfortable then you can use your other foot instead, it takes time to get used it
 
 ![push](pushing.jpg)
 

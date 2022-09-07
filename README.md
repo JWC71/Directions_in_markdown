@@ -1,5 +1,5 @@
 # How to Skateboard
--------
+---
 
 Skateboarding is which a person rides standing balanced on a small board mounted on wheels. Skateboarding main uses is entertainment and transportation. 
 
@@ -16,7 +16,7 @@ Skateboarding is which a person rides standing balanced on a small board mounted
 - Knee and elbow pads 
 
 # Steps
------
+---
 # 1. Wear the helmet with the knee and elbow pads
 
 # 2. Find a place to skate
